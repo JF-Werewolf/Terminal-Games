@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706996147 source:d:\books\visual studio\codeblocks\game\colors\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

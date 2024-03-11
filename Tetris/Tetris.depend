@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708098262 source:d:\books\visual studio\codeblocks\game\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+

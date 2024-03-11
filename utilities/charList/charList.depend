@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707327574 source:d:\books\visual studio\codeblocks\game\charlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
